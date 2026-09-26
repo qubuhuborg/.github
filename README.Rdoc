@@ -1,5 +1,5 @@
 ---
-output: github_document
+output: github_document 
 ---
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
@@ -42,6 +42,7 @@ Options and advice:
 
 - [Forcing binaries](#forcing-binaries) - An environment variable to always use binary packages.
 
+  
 ## Quickstart CI workflow
 
 `usethis::use_github_action("check-release")`
