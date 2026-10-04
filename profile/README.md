@@ -3,8 +3,7 @@ output: github_document
 ---
 <!---
 README.md is generated from README.Rmd. Please edit that file 
---->
-```rmd
+--->```rmd
 {r setup, include = FALSE}
 print_yaml <- function(filename) {
   cat("```yaml", readLines(filename), "```", sep = "\n")
